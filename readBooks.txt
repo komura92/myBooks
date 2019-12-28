@@ -75,4 +75,5 @@
 +	Tony Buzan - Zwykli ludzie - liderzy
 +	Ashlee Vance - Elon Musk. Biografia twórcy PayPal, Tesla, SpaceX.
 +	Biblioteka Gazety Wyborczej - Giganci biznesu
--	Tomasz Kammel - Moc w gêbie
++	Tomasz Kammel - Moc w gêbie
+-	Walter Isaacson - Steve Jobs
