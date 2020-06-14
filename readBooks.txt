@@ -20,7 +20,7 @@
 +	Napoleon Hill - Myœl i bogaæ siê
 +	Napoleon Hill - 8 sekretów sukcesu
 +	Bob Proctor - Urodzi³eœ siê bogaty
-+	Charles Duhigg - Si³a nawyku
+!+	Charles Duhigg - Si³a nawyku
 +	Éric-Emmanuel Schmitt - Oskar i Pani Ró¿a
 !+	Brian Tracy Maksimum osi¹gniêæ
 +	Brian Tracy - Zjedz tê ¿abê
@@ -84,12 +84,13 @@
 +	Charles Phillips - Myœlê, wiêc jestem. 50 ³amig³ówek wspomagaj¹cych myœlenie lateralne.
 +	Amanda Browning - Grecka przysiêga (Harlequin Romance)
 +	Andrzej Batko - Hipnoza
-+	Puzyrkiewicz Darek - Biblia copywritingu
+!+	Puzyrkiewicz Darek - Biblia copywritingu
 +	Stephen R. Covey - 8 nawyk. Od skutecznoœci do wielkoœci.
 +	Hans Selye - Stres okie³znany
-+	Daniel Kahneman - Pu³apki myœlenia. O myœleniu szybkim i wolnym
+!+	Daniel Kahneman - Pu³apki myœlenia. O myœleniu szybkim i wolnym
 +	Robert Greene - Jak zostaæ mistrzem. Trening doskona³oœci
 +	Barney Stinson, Matt Kuhn - The Playbook: Suit Up. Score Chicks. Be Awesome
 +	Anna Niemczyk, Andrzej Niemczyk, Jan M¹dry - Motywacja pod lup¹. Praktyczny poradnik dla szefów
 +	Jacek Walkiewicz - Rozmyœlnik Jacka Walkiewicza. Zainspiruj siê do dzia³ania!
 +	Steven Weinberg - Pierwsze trzy minuty
+!+	Daniel Goleman - Inteligencja emocjonalna
