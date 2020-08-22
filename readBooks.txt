@@ -98,3 +98,4 @@
 +	Rafa³ Ko³odziej - Uwolnij pewnoœæ siebie
 +	Simon Sinek - Zaczynaj od DLACZEGO. Jak wielcy liderzy inspiruj¹ innych do dzia³ania
 +	Viktor Frankl - Cz³owiek w poszukiwaniu sensu
++	Robert Martin - Mistrz czystego kodu
