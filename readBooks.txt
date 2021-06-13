@@ -100,3 +100,4 @@
 +	Viktor Frankl - Cz³owiek w poszukiwaniu sensu
 +	Robert Martin - Mistrz czystego kodu
 +	Stephen King - Stukostrachy
++	Daniel Lieberman - Mózg chce wiêcej. Dopamina. Naturalny dopalacz
